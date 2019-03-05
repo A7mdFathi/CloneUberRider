@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "663241559313",
+    "firebase_url": "https://androiduber-2112.firebaseio.com",
+    "project_id": "androiduber-2112",
+    "storage_bucket": "androiduber-2112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663241559313:android:9eaddc6d05fae1b9",
+        "android_client_info": {
+          "package_name": "com.example.android.androiduber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663241559313-2ghjqfm4h38320af953avmh4pi3ekg84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.androiduber",
+            "certificate_hash": "ac965d5fb2fbb4354581cb5882d61154d383431d"
+          }
+        },
+        {
+          "client_id": "663241559313-r22amt8svar573vjl37cr0c1psr6b153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3acgQHgdILteBlRRsAIqQQzdAD-kCTk"
+        },
+        {
+          "current_key": "AIzaSyCNemhWUvLxis--TCfFBvrKK2j9mKwGORo"
+        },
+        {
+          "current_key": "AIzaSyC41-fYicgM8fssxu5dZMR-dZe_CaWQCFQ"
+        },
+        {
+          "current_key": "AIzaSyDmU1P3ls7ZKTwozfuHHahA-swH3bgOlYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663241559313-r22amt8svar573vjl37cr0c1psr6b153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663241559313:android:72fa894486a32782",
+        "android_client_info": {
+          "package_name": "com.example.android.androiduber_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663241559313-ohdchivedh5bb9od0vafhmil4tl7576n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.androiduber_rider",
+            "certificate_hash": "ac965d5fb2fbb4354581cb5882d61154d383431d"
+          }
+        },
+        {
+          "client_id": "663241559313-r22amt8svar573vjl37cr0c1psr6b153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3acgQHgdILteBlRRsAIqQQzdAD-kCTk"
+        },
+        {
+          "current_key": "AIzaSyCNemhWUvLxis--TCfFBvrKK2j9mKwGORo"
+        },
+        {
+          "current_key": "AIzaSyC41-fYicgM8fssxu5dZMR-dZe_CaWQCFQ"
+        },
+        {
+          "current_key": "AIzaSyDmU1P3ls7ZKTwozfuHHahA-swH3bgOlYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663241559313-r22amt8svar573vjl37cr0c1psr6b153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
